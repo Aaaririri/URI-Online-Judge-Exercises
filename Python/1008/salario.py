@@ -1,0 +1,5 @@
+n = input()
+a = int(input())
+b = float(input())
+print(f'NUMBER = {n}')
+print(f'SALARY = {a*b:.2f}')

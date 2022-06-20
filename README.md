@@ -1,2 +1,2 @@
 # URI-Online-Judge-Exercises
-URI Online Judge exercises solved using Python.
+URI Online Judge exercises solved using Python and Java.
